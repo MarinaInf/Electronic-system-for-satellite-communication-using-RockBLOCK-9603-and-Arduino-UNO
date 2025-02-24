@@ -3,6 +3,7 @@
 This project is my Bachelor Thesis of the degree in Physics in the University of Seville. The main goal of this project is getting to communicate with an Iridium satellite. The message sent contains the latitude and 
 longitude, obtained by a GPS. In this repository, you will be able to find the main code used for this project, as well as schematics and images showing the message sent, both in RockBLOCK Admin and in the Serial 
 Monitor of the Arduino UNO. Besides, some videos showing the whole system, which includes an OLED display, are uploaded. 
+Furthermore, a code to use the RockBLOCK 9603 on its own is provided. This is useful to check if the device functions correctly.
 
 ## Hardware
 The devices used for this project are:
